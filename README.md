@@ -1,8 +1,9 @@
+# Interest_Calculator
 <p>
-  <img src="ci_1.png" align="center" width="800" height="400">
+  <img src="ci_1.png" align="center" width="1000" height="400">
 </p>
 
-# Interest_Calculator
+
 
 ## Description
 This repository contains a simple interest calculator program implemented in Python. The program allows users to calculate simple interest, compound interest, and savings over a specific period of time based on user-provided inputs such as principal amount, interest rate, and time period.
