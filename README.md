@@ -1,6 +1,7 @@
 <p>
-  <img src="ci_1.png">
+  <img src="ci_1.png" align="center" width="400" height="400">
 </p>
+
 # Interest_Calculator
 
 ## Description
