@@ -1,3 +1,6 @@
+<p>
+  <img src="ci_1.png">
+</p>
 # Interest_Calculator
 
 ## Description
