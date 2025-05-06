@@ -15,3 +15,4 @@ This repository contains a simple interest calculator program implemented in Pyt
 
 ## 🙋‍♂️ Support
 💙 If you like this project, give it a ⭐ and share it with friends!
+ 
